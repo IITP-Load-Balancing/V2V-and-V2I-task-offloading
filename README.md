@@ -1,5 +1,5 @@
 # V2V-and-V2I-task-offloading       
-Joint Task Offloading and Resource Allocation for Integrated V2V and V2I Communication
+Joint Task Offloading and Resource Allocation for Integrated V2V and V2I Communication 
 
 # Introduction
 OTA 기술 등장으로 차량에 탑재되는 소프트웨어는 하드웨어 스펙보다 높은 사양을 요구하게 될 수도 있음. 
